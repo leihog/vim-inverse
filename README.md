@@ -6,7 +6,7 @@ A simple plugin to inverse words such that true becomes false, 1 becomes 0 etc.
 
 ### Install with [pathogen](https://github.com/tpope/vim-pathogen)
 
-      git clone https://github.com/pangloss/vim-javascript.git ~/.vim/bundle/vim-javascript
+      git clone https://github.com/leihog/vim-inverse.git ~/.vim/bundle/vim-inverse
 
 ## Configuration
 
